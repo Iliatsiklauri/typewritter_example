@@ -10,7 +10,7 @@ export default function Home() {
         <span> </span>
         <span className="text-red-400">
           <Typewriter
-            words={['programer', 'frontend developer', 'gym member', 'men!']}
+            words={['programer', 'frontend developer', 'straight', 'men!']}
             loop={false}
             cursor
             cursorStyle="_"
